@@ -1,12 +1,18 @@
-## Arcus - Azure development in a breeze ☁
+**Arcus - Azure development in a breeze ☁**
 
-<!--
+A free and open-source framework to simply building applications running on Microsoft Azure.
 
-**Here are some ideas to get you started:**
+Get started easily with our components:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+- [Arcus Azure ML](https://github.com/arcus-azure/arcus.azureml)
+- [Arcus Background Jobs](https://github.com/arcus-azure/arcus.backgroundjobs)
+- [Arcus Event Grid](https://github.com/arcus-azure/arcus.eventgrid)
+- [Arcus Messaging](https://github.com/arcus-azure/arcus.messaging)
+- [Arcus ML](https://github.com/arcus-azure/arcus.ml)
+- [Arcus Observability](https://github.com/arcus-azure/arcus.observability)
+- [Arcus Scripting](https://github.com/arcus-azure/arcus.scripting)
+- [Arcus Security](https://github.com/arcus-azure/arcus.security)
+- [Arcus Templates](https://github.com/arcus-azure/arcus.templates)
+- [Arcus Web API](https://github.com/arcus-azure/arcus.webapi)
+
+We are open to contributions and happy to have you as a [listed end-user](https://github.com/arcus-azure/arcus#customers)!
