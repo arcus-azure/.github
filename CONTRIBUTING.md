@@ -33,6 +33,7 @@ All our Arcus projects are structured the same way.
 - `src` folder with the actual code library
 - `build` folder with the YAML build pipelines and templates for Azure DevOps
 - `docs` folder with the current published and preview feature documentation
+- `.github` folder with the governance information like: current issue and pullrequest templates 
 
 ## Way of working
 Your assigned work should contain three things:
