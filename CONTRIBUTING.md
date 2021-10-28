@@ -30,7 +30,7 @@ When working on an issue, we recommand that you create a feature branch on your 
 All our Arcus projects are structured the same way.
 
 - `src` folder with the actual code library
-- `build` folder with the YAML build pipelines and templates
+- `build` folder with the YAML build pipelines and templates for Azure DevOps
 - `docs` folder with the current published and preview feature documentation
 
 ## Way of working
