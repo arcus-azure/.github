@@ -10,8 +10,8 @@ This contribution guide has the following contents:
 We are happy to discuss ideas and possible features or problems.
 
 In these cases, we would like you to create an issue:
-- You encouter a problem or bug while using the Arcus library.
-- You have a clear idea for a feature or enhancement in the library.
+- You encouter a problem or bug while using the Arcus.
+- You have a clear idea for a feature or enhancement in Arcus.
 
 In these cases, we should like you to create a discussion:
 - You want to discuss an raw idea with us
