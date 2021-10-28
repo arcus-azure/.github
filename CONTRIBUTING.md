@@ -24,8 +24,7 @@ Make sure that you have forked the Arcus repository to which you want to contrib
 
 > More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
 
-When working on an issue, we recommand that you create a feature branch on your own GitHub workplace and merge it via PullRequest into the `master` branch of the destination Arcus repository.
-That way, you can keep your own `master` branch up to date with the current changes.
+When working on an issue, we recommand that you create a feature branch on your own GitHub workplace and merge it via pull request into the `master` branch of the destination Arcus repository. That way, you can keep your own `master` branch up to date with the current changes.
 
 ## Project structure
 All our Arcus projects are structured the same way.
