@@ -17,7 +17,7 @@ In these cases, we should like you to create a discussion:
 - You want to discuss an raw idea with us
 - You have a question on the library, how to use it or where to find something
 
-Work will be assigned by the code owners of the Arcus library. Make sure to check with them first before jumping into the code.
+Work will be assigned by the code owners of the Arcus library and it is recommended to check with them first diving into code.
 
 ## Forking
 Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with PullRequests for new features or adaptations.
