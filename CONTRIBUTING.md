@@ -16,6 +16,7 @@ In these cases, we would like you to create an issue:
 In these cases, we should like you to create a discussion:
 - You want to discuss an raw idea with us
 - You have a question on the library, how to use it or where to find something
+- You want to raise a concern
 
 Work will be assigned by the code owners of the Arcus library and it is recommended to check with them first diving into code.
 
