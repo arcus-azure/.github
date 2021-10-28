@@ -20,8 +20,9 @@ In these cases, we should like you to create a discussion:
 Work will be assigned by the code owners of the Arcus library and it is recommended to check with them first diving into code.
 
 ## Forking
-Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with PullRequests for new features or adaptations.
-More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
+Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with pull requests (PRs) for new features or adaptations.
+
+> More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
 
 When working on an issue, we recommand that you create a feature branch on your own GitHub workplace and merge it via PullRequest into the `master` branch of the destination Arcus repository.
 That way, you can keep your own `master` branch up to date with the current changes.
