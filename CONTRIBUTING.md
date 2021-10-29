@@ -10,7 +10,7 @@ This contribution guide has the following contents:
 We are happy to discuss ideas and possible features or problems.
 
 In these cases, we would like you to create an issue:
-- You encouter a problem or bug while using the Arcus.
+- You encouter a problem or bug while using Arcus.
 - You have a clear idea for a feature or enhancement in Arcus.
 
 In these cases, we should like you to create a discussion:
@@ -86,7 +86,7 @@ For local development, you should create your own appsettings file and fill in t
 All the available feature documentation is located under the `docs` folder. If your feature has impact on public functionality, you'll have to change the feature information too.
 This will be done in the `./docs/preview` folder of the Arcus library. There you'll find a functional split of the functionality in markdown (`.md`) files.
 
-It should be fairly easy to pinpoint which file you should change for an enhancement or fix. 
+Normally, you should quickly find which file you should change for an enhancement or fix. 
 For new features, please make sure that you keep the same structure of documentation features:
 
 ````
