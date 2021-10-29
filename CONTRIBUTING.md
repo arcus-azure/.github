@@ -19,6 +19,7 @@ In these cases, we should like you to create a discussion:
 - You want to raise a concern
 
 Work will be assigned by the code owners of the Arcus library and it is recommended to check with them first diving into code.
+> Also: a good tip is to assign one or every code owner of the repository to your PullRequest.
 
 ## Forking
 Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with pull requests (PRs) for new features or adaptations.
