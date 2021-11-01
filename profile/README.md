@@ -15,6 +15,6 @@ Get started easily with our components:
 - [Arcus Templates](https://github.com/arcus-azure/arcus.templates)
 - [Arcus Web API](https://github.com/arcus-azure/arcus.webapi)
 
-We are open to contributions! For more infomration, see our [contribution guide](../CONTRIBUTING.md).
+We are open to contributions! For more infomration, see our [contribution guide](https://github.com/arcus-azure/.github/blob/master/CONTRIBUTING.md).
 
 Are you using Arcus? We are appy to have you as a [listed end-user](https://github.com/arcus-azure/arcus#customers)!
