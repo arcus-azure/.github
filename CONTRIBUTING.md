@@ -9,13 +9,13 @@ This contribution guide has the following contents:
 ## Issues and discussions
 We are happy to discuss ideas and possible features or problems.
 
-**In these cases, we should like you to create a discussion**
+**In these cases, we would like you to create a discussion**
 - You want to discuss an raw idea with us
 - You have a question on the library, how to use it or where to find something
 - You want to raise a concern
 
 **In these cases, we would like you to create an issue**
-- You encouter a problem or bug while using Arcus.
+- You encounter a problem or bug while using Arcus.
 - You have a clear idea for a feature or enhancement in Arcus.
 
 After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, nothing you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into code.
