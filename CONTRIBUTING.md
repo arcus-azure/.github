@@ -1,7 +1,7 @@
-# Contributig to Arcus
+# Contributing to Arcus
 🎉 First off, thanks for taking the time to contribute! We're really glad you're reading this. 🎉
 
-The following set of guidelines will help you in contributing to  Arcus repositories.
+The following set of guidelines will help you in contributing to Arcus repositories.
 But, no worries, if you forget something or have problems with some of these steps, we're happy to help! In those cases: create a PullRequest on the repository so we can talk about it.
 
 This contribution guide has the following contents:
@@ -9,24 +9,33 @@ This contribution guide has the following contents:
 ## Issues and discussions
 We are happy to discuss ideas and possible features or problems.
 
-In these cases, we would like you to create an issue:
-- You encouter a problem or bug while using Arcus.
-- You have a clear idea for a feature or enhancement in Arcus.
-
-In these cases, we should like you to create a discussion:
+**In these cases, we should like you to create a discussion**
 - You want to discuss an raw idea with us
 - You have a question on the library, how to use it or where to find something
 - You want to raise a concern
 
-Work will be assigned by the code owners of the Arcus library and it is recommended to check with them first diving into code.
-> Also: a good tip is to assign one or every code owner of the repository to your PullRequest.
+**In these cases, we would like you to create an issue**
+- You encouter a problem or bug while using Arcus.
+- You have a clear idea for a feature or enhancement in Arcus.
+
+After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, nothing you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into code.
+
+
+## Pull Requests
+Changes to the code-base are always done via a pull request.
+If you are facing a bug that is really bugging you, or if you're eagerly waiting for some feature to be implemented, you can taken matters into your own hands and fix the bug or implement the feature yourself!
+
+You can do this by **forking** the repository to your personal GitHub account and start working on the forked repository.  Once you've finished implementing the changes, create a pull request to the upstream Arcus repository to make your changes official!
+Arcus contributors will review your pull request.  After the review process is complete, your pull request will be merged by one of the Arcus code owners into the Arcus repository.
+
+> A good tip is to assign one or every code owner of the repository to your pull request.
 
 ## Forking
 Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with pull requests (PRs) for new features or adaptations.
 
 > More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
 
-When working on an issue, we recommand that you create a feature branch on your own GitHub workplace and merge it via pull request into the `master` branch of the destination Arcus repository. That way, you can keep your own `master` branch up to date with the current changes.
+When working on an issue, we recommend that you create a feature branch on your own GitHub workplace and merge it via pull request into the `master` branch of the destination Arcus repository. That way, you can keep your own `master` branch up to date with the current changes.
 
 ## Project structure
 All our Arcus projects are structured the same way.
