@@ -18,7 +18,7 @@ We are happy to discuss ideas and possible features or problems.
 - You encounter a problem or bug while using Arcus.
 - You have a clear idea for a feature or enhancement in Arcus.
 
-After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, nothing you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into code.
+After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into code.
 
 
 ## Pull Requests
