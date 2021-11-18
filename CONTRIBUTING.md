@@ -26,16 +26,20 @@ Changes to the code-base are always done via a pull request.
 If you are facing a bug that is really bugging you, or if you're eagerly waiting for some feature to be implemented, you can taken matters into your own hands and fix the bug or implement the feature yourself!
 
 You can do this by **forking** the repository to your personal GitHub account and start working on the forked repository.  Once you've finished implementing the changes, create a pull request to the upstream Arcus repository to make your changes official!
-Arcus contributors will review your pull request.  After the review process is complete, your pull request will be merged by one of the Arcus code owners into the Arcus repository.
 
-> A good tip is to assign one or every code owner of the repository to your pull request.
-
-## Forking
+### Forking
 Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with pull requests (PRs) for new features or adaptations.
 
 > More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
 
-When working on an issue, we recommend that you create a feature branch on your own GitHub workplace and merge it via pull request into the `master` branch of the destination Arcus repository. That way, you can keep your own `master` branch up to date with the current changes.
+### Implementing changes
+Once you've forked the repository, you can start making changes to the fork in your own GitHub workplace.  When working on an issue, we recommend that you create a feature-branch on your own fork and make the changes on that feature branch. By doing that, you can keep your own `master` branch up to date with the current changes.
+
+### Review and merge of the changes
+When you're finished implementing the changes that are required for a feature or bug-fix, create a pull request for your feature branch into the `master` branch of the upstream Arcus repository.
+Your pull request will be reviewed, and once an Arcus code owner has reviewed and approved the pull request, the changes will be merged into the Arcus repository.
+
+> A good tip is to assign one or every code owner of the repository to your pull request.
 
 ## Project structure
 All our Arcus projects are structured the same way.
