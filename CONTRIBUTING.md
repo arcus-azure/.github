@@ -39,8 +39,6 @@ Once you've forked the repository, you can start making changes to the fork in y
 When you're finished implementing the changes that are required for a feature or bug-fix, create a pull request for your feature branch into the `master` branch of the upstream Arcus repository.
 Your pull request will be reviewed, and once an Arcus code owner has reviewed and approved the pull request, the changes will be merged into the Arcus repository.
 
-> A good tip is to assign one or every code owner of the repository to your pull request.
-
 ## Project structure
 All our Arcus projects are structured the same way.
 
