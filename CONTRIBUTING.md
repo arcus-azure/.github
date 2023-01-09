@@ -118,7 +118,5 @@ YourModel test = YourMethod();
 ```
 ````
 
-> Note that new feature also should be linked in the index page, which is usually called `./docs/preview/index.md`.
-
 ___
 ## THANK YOU you for you future contribution! ♥
