@@ -4,11 +4,7 @@ A free and open-source framework to simply building applications running on Micr
 
 Get started easily with our components:
 
-- [Arcus Azure ML](https://github.com/arcus-azure/arcus.azureml)
-- [Arcus Background Jobs](https://github.com/arcus-azure/arcus.backgroundjobs)
-- [Arcus Event Grid](https://github.com/arcus-azure/arcus.eventgrid)
 - [Arcus Messaging](https://github.com/arcus-azure/arcus.messaging)
-- [Arcus ML](https://github.com/arcus-azure/arcus.ml)
 - [Arcus Observability](https://github.com/arcus-azure/arcus.observability)
 - [Arcus Scripting](https://github.com/arcus-azure/arcus.scripting)
 - [Arcus Security](https://github.com/arcus-azure/arcus.security)
