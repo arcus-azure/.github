@@ -10,7 +10,7 @@ This contribution guide has the following contents:
 We are happy to discuss ideas and possible features or problems.
 
 **In these cases, we would like you to create a discussion**
-- You want to discuss an raw idea with us
+- You want to discuss a raw idea with us
 - You have a question on the library, how to use it or where to find something
 - You want to raise a concern
 
@@ -18,7 +18,7 @@ We are happy to discuss ideas and possible features or problems.
 - You encounter a problem or bug while using Arcus.
 - You have a clear idea for a feature or enhancement in Arcus.
 
-After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into code.
+After you have created an issue, work will will be assigned by the code owners of the Arcus library.  However, you are also encouraged to fix the bug you've reported or implement the feature that you've proposed yourself as well!  In that case, it is recommended to check with the code owners of the Arcus repository first before diving into the code.
 
 
 ## Pull Requests
@@ -28,12 +28,12 @@ If you are facing a bug that is really bugging you, or if you're eagerly waiting
 You can do this by **forking** the repository to your personal GitHub account and start working on the forked repository.  Once you've finished implementing the changes, create a pull request to the upstream Arcus repository to make your changes official!
 
 ### Forking
-Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub workplace. We work solely with pull requests (PRs) for new features or adaptations.
+Make sure that you have forked the Arcus repository to which you want to contribute to your personal GitHub account. We work solely with pull requests (PRs) for new features or adaptations.
 
 > More information on GitHub forking is available [here](https://guides.github.com/activities/forking/).
 
 ### Implementing changes
-Once you've forked the repository, you can start making changes to the fork in your own GitHub workplace.  When working on an issue, we recommend that you create a feature-branch on your own fork and make the changes on that feature branch. By doing that, you can keep your own `master` branch up to date with the current changes.
+Once you've forked the repository, you can start making changes to the fork in your own GitHub account. When working on an issue, we recommend that you create a feature-branch on your own fork and make the changes on that feature branch. By doing that, you can keep your own `master` branch up to date with the current changes.
 
 ### Review and merge of the changes
 When you're finished implementing the changes that are required for a feature or bug-fix, create a pull request for your feature branch into the `master` branch of the upstream Arcus repository.
@@ -83,7 +83,7 @@ var value = GetValue();
 ```
 
 ### Testing
-The all tests are located in the `Tests` solution folder of the Arcus library. All public functionality should be thoroughly tested with unit tests. These tests are always in the `Arcus.<library>.Tests.Unit` project. More advanced scenario's and the fully workings of the features are checked with integration tests and are always in the `Arcus.<library>.Tests.Integration` project. 
+All the tests are located in the `Tests` solution folder of the Arcus library. All public functionality should be thoroughly tested with unit tests. These tests are always in the `Arcus.<library>.Tests.Unit` project. More advanced scenarios and the full workings of a feature are checked with integration tests and are always in the `Arcus.<library>.Tests.Integration` project.
 
 - A test should only test one specific scenario and a specific flow (ie. happy or failure)
 - All tests for one class should be consolidated into one test class
@@ -98,7 +98,7 @@ For local development, you should create your own appsettings file and fill in t
 All the available feature documentation is located under the `docs` folder. If your feature has impact on public functionality, you'll have to change the feature information too.
 This will be done in the `./docs/preview` folder of the Arcus library. There you'll find a functional split of the functionality in markdown (`.md`) files.
 
-Normally, you should quickly find which file you should change for an enhancement or fix. 
+Normally, you should quickly find which file you should change for an enhancement or fix.
 For new features, please make sure that you keep the same structure of documentation features:
 
 ````
@@ -110,7 +110,7 @@ layout: default
 # Your feature description
 Short summary of what this Arcus feature provides.
 
-## Your more detailed functionality
+## Your detailed functionality
 More in-depth description of what the feature does.
 
 ```csharp
@@ -119,4 +119,4 @@ YourModel test = YourMethod();
 ````
 
 ___
-## THANK YOU you for you future contribution! ♥
+## THANK YOU you for your future contribution! ♥
