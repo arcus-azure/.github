@@ -5,19 +5,17 @@ The following set of guidelines will help you in contributing to Arcus repositor
 But, no worries, if you forget something or have problems with some of these steps, we're happy to help! In those cases: create a PullRequest on the repository so we can talk about it.
 
 This contribution guide has the following content:
-- [Contributing to Arcus](#contributing-to-arcus)
-  - [Issues and discussions](#issues-and-discussions)
-  - [Pull Requests](#pull-requests)
-    - [Forking](#forking)
-    - [Implementing changes](#implementing-changes)
-    - [Review and merge of the changes](#review-and-merge-of-the-changes)
-  - [Project structure](#project-structure)
-  - [Way of working](#way-of-working)
-  - [Code guidelines](#code-guidelines)
-    - [General](#general)
-    - [Testing](#testing)
-  - [Documentation](#documentation)
-  - [THANK YOU you for your future contribution! ♥](#thank-you-you-for-your-future-contribution-)
+- [Issues and discussions](#issues-and-discussions)
+- [Pull Requests](#pull-requests)
+  - [Forking](#forking)
+  - [Implementing changes](#implementing-changes)
+  - [Review and merge of the changes](#review-and-merge-of-the-changes)
+- [Project structure](#project-structure)
+- [Way of working](#way-of-working)
+- [Code guidelines](#code-guidelines)
+  - [General](#general)
+  - [Testing](#testing)
+- [Documentation](#documentation)
 
 ## Issues and discussions
 We are happy to discuss ideas and possible features or problems.
