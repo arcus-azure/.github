@@ -12,6 +12,6 @@ Get started easily with our components:
 - [Arcus Testing](https://github.com/arcus-azure/arcus.testing)
 - [Arcus Web API](https://github.com/arcus-azure/arcus.webapi)
 
-We are open to contributions! For more infomration, see our [contribution guide](https://github.com/arcus-azure/.github/blob/main/CONTRIBUTING.md).
+We are open to contributions! For more information, see our [contribution guide](https://github.com/arcus-azure/.github/blob/main/CONTRIBUTING.md).
 
-Are you using Arcus? We are appy to have you as a [listed end-user](https://github.com/arcus-azure/arcus#customers)!
+Are you using Arcus? We are happy to have you as a [listed end-user](https://github.com/arcus-azure/arcus#customers)!
