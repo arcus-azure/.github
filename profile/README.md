@@ -8,9 +8,7 @@ Get started easily with our components:
 - [Arcus Observability](https://github.com/arcus-azure/arcus.observability)
 - [Arcus Scripting](https://github.com/arcus-azure/arcus.scripting)
 - [Arcus Security](https://github.com/arcus-azure/arcus.security)
-- [Arcus Templates](https://github.com/arcus-azure/arcus.templates)
 - [Arcus Testing](https://github.com/arcus-azure/arcus.testing)
-- [Arcus Web API](https://github.com/arcus-azure/arcus.webapi)
 
 We are open to contributions! For more information, see our [contribution guide](https://github.com/arcus-azure/.github/blob/main/CONTRIBUTING.md).
 
